@@ -1,0 +1,91 @@
+body {
+    padding-bottom: 20px;}
+.bd-placeholder-img-lg {
+    font-size: 3.5rem;}
+.mb-4 {
+  margin-bottom: 1.5rem!important;
+  color: white;}
+.codo{
+  max-width: 100px;}
+.container-fluid{
+  padding: 0px;}
+header{
+background-color: rgb(53, 53, 53);
+align-items: center;}
+.fs-4{
+  color: white;}
+.bl{ color: white;
+  font-size: 15px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ text-decoration: none;}
+.grey{
+  color: #a6aaad;
+  font-size: 15px;
+  margin: 10px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ text-decoration: none;}
+.green{
+  color: #2ECC71;
+  font-size: 15px;
+  margin: 10px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ text-decoration: none;}
+.izq{
+  text-align: right; }
+ main{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./ba1.jpg);
+  background-size: 100%;
+  background-position: center;  }
+
+.btn-default{
+  color: white;
+  border-color: white;
+  border-style: solid;}
+.mb-4{
+  color: white;}
+.titulo{
+  text-align: center;}
+.conoce{
+  margin-top: 10px;
+  font-size: 10px;}
+.thumbnail{
+  margin: auto;}
+.row{
+  margin-left: 10%;
+  margin-right: 10%;}
+.fg{
+  background-color: grey;}
+.boton{
+ Margin-top: 10px ;
+ font-weight: bolder;
+  font-size: 10px; 
+  padding: 2px;}
+.react{
+  color: white;}
+.Form{
+  text-align: center;}
+.enviar{
+  width: 100%;}
+.formulario{ 
+  padding-left: 20%;
+  padding-right: 20%;
+  margin: 0px;}
+.col-lg-6{
+  width: 50%;}
+.hono{
+  width: 50%;}
+.texto{
+  color: white;
+  padding: 6px;
+  padding-left: 8px;}
+.octubre{
+  padding: 4px;
+  padding-left: 8px;}
+aside{
+  float: right;
+  width: 50%;}
+.pie{
+  background-color: rgb(40, 40, 148);
+  color: rgb(255, 255, 255);}
+.imagoct{ background-color: rgb(55, 55, 59);
+  height: 100%;}
